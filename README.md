@@ -31,4 +31,4 @@ Follow these steps to enable full functionality:
 
 ---
 
-For best results, ensure you're using **Microsoft Office latest version.
+For best results, ensure you're using **Microsoft Office latest version**.
